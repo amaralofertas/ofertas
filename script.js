@@ -2,6 +2,12 @@ const cupons = [
   {
     "tipo": "ml",
     "codigo": "MELIFUT",
+    "condicoes": "Novo Cupom Mercado Livre 💛 15% 🚨 Cupom do mercado Livre 🏷 15% OFF em R$ 79, Limite de R$ 60 OFF 🔗 Válido em 90% do site Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
+    "codigo": "MELIFUT",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 15% OFF em R$ 79, Limite de R$ 60 OFF 🔗 Válido em 90% do site Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
   }

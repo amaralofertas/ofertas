@@ -1,6 +1,18 @@
 const cupons = [
   {
     "tipo": "ml",
+    "codigo": "V3MQU3T3M10",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 15% OFF em R$ 79, Limite de R$ 60 OFF 🔗 Válido em 90% do site Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "FLAJOGO2K8R1T",
+    "condicoes": "Novo Cupom Shopee ! R$ 50,00 OFF em R$ 100,00 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "ml",
     "codigo": "MELIFUT",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 15% OFF em R$ 79, Limite de R$ 60 OFF 🔗 Válido em 90% do site Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

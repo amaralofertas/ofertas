@@ -2,7 +2,7 @@ const cupons = [
   {
     "tipo": "ml",
     "codigo": "V3MQU3T3M10",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 15% OFF em R$ 79, Limite de R$ 60 OFF 🔗 Válido em 90% do site Resgate aqui👇",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 10% OFF em R$ 79, Limite de R$ 60 OFF 🔗 Válido em 90% do site Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
   },
   {

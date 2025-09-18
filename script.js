@@ -1,8 +1,8 @@
 const cupons = [
   {
     "tipo": "shopee",
-    "codigo": "99SH0IG4ZTM",
-    "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee 🏷 Cashback de 50%, até R$ 50,00 em Moedas de volta Resgate aqui👇",
+    "codigo": "IG7XS99PLQ",
+    "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee! 🏷 Cashback de 50%, até R$ 50,00 em Moedas de volta Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];

@@ -2,12 +2,6 @@ const cupons = [
   {
     "tipo": "ml",
     "codigo": "MELIFUT",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 15% OFF em R$ 79, Limite de R$ 60 OFF 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "MELIFUT",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 15% OFF, Limite de R$ 60 OFF 🔗 Válido em 90% do site Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
   },
@@ -43,7 +37,7 @@ const cupons = [
   },
   {
     "tipo": "shopee",
-    "codigo": "ABOBORA",
+    "codigo": "melancia",
     "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee! 🏷 50% OFF TODO SITE Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   },

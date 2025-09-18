@@ -1,41 +1,4 @@
-const cupons = [
-  {
-    "tipo": "shopee",
-    "codigo": "Z4P2W4T3",
-    "condicoes": "Novo Cupom Shopee ! R$ 20,00 OFF em R$ 60,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "Z4P2W4T3",
-    "condicoes": "Novo Cupom Shopee ! R$ 20,00 OFF em R$ 60,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "Z4P2W4T3",
-    "condicoes": "Novo Cupom Shopee ! 💛 R$ 20,00 OFF, Limite de R$ 60,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "D3ZPORM3LI",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre esgotando 🏷 10% OFF em R$ 79, Limitado a R$ 60 OFF 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "Z4P2W4T3",
-    "condicoes": "Novo Cupom Shopee ! 💛 R$ 20,00 OFF, Limite de R$ 60,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "MELIFUT",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 15% OFF em R$ 79, Limitado a R$ 60 OFF 🔗 Válido em 90% do site. Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

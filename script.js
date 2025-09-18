@@ -1,50 +1,8 @@
 const cupons = [
   {
-    "tipo": "ml",
-    "codigo": "MELIFUT",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 15% OFF, Limite de R$ 60 OFF 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "MELIFUT",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 15% OFF, Limite de R$ 60 OFF 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "M3LI10BR",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 10% OFF em R$ 79, Limitado a R$ 60 OFF 🔗 Em todos produtos Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "M3LI10BR",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 10% OFF em R$ 79, Limitado a R$ 60 OFF Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "50PZxGJxgI",
-    "condicoes": "Novo Cupom Shopee ! 🔥 Cupom Shopee Tecnologia! ✅ R$ 100 OFF em R$ 899 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
     "tipo": "shopee",
     "codigo": "99SH0IG4ZTM",
     "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee 🏷 Cashback de 50%, até R$ 50,00 em Moedas de volta Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "melancia",
-    "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee! 🏷 50% OFF TODO SITE Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "IG7XS99PLQ",
-    "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee! 🏷 Cashback de 50%, até R$ 50,00 em Moedas de volta Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];

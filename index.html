@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Amaral Ofertas</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: #121212 url('mascote.png') no-repeat right bottom;
+      background-size: 300px auto;
+      color: #fff;
+      min-height: 100vh;
+      position: relative;
+    }
+
+    h1 {
+      text-align: center;
+      margin-top: 50px;
+      font-size: 3em;
+      color: #ffcc00;
+      text-shadow: 0 0 10px #ffcc00;
+    }
+
+    /* Botões iniciais */
+    #menu-inicial {
+      display: flex;
+      justify-content: center;
+      margin-top: 50px;
+      gap: 50px;
+      flex-wrap: wrap;
+    }
+
+    .btn-menu {
+      padding: 20px 40px;
+      font-size: 1.5em;
+      font-weight: bold;
+      border-radius: 10px;
+      border: none;
+      cursor: pointer;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+
+    .btn-menu:hover {
+      transform: scale(1.1);
+      box-shadow: 0 5px 20px rgba(255,255,255,0.3);
+    }
+
+    .ml {
+      background: #ffcc00;
+      color: #121212;
+    }
+
+    .shopee {
+      background: #ff3b3b;
+      color: #fff;
+    }
+
+    /* Frase abaixo dos botões */
+    #subtitulo {
+      text-align: center;
+      color: #ccc;
+      margin-top: 20px;
+      font-size: 1.2em;
+    }
+
+    /* Container de cupons */
+    #container-cupom {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      margin: 50px 20px;
+    }
+
+    /* Card de cupom */
+    .cupom {
+      background: #1e1e1e;
+      border-radius: 15px;
+      width: 300px;
+      padding: 25px 20px;
+      box-shadow: 0 5px 20px rgba(0,0,0,0.5);
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+      transform: translateY(50px);
+      opacity: 0;
+      animation: slideUp 0.6s forwards;
+    }
+
+    @keyframes slideUp {
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+
+    .cupom h3 {
+      font-size: 1.5em;
+      margin-bottom: 15px;
+    }
+
+    .cupom-tampado {
+      font-size: 1.2em;
+      letter-spacing: 3px;
+      margin-bottom: 10px;
+      user-select: none;
+    }
+
+    .condicoes {
+      font-size: 0.9em;
+      color: #ccc;
+      margin-bottom: 15px;
+    }
+
+    .btn {
+      border: none;
+      padding: 12px 20px;
+      border-radius: 8px;
+      font-weight: bold;
+      font-size: 1em;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      color: #121212;
+    }
+
+    .btn:hover {
+      transform: scale(1.05);
+    }
+
+    .ml-btn {
+      background: #ffcc00;
+    }
+
+    .shopee-btn {
+      background: #ff3b3b;
+    }
+
+    .btn-copiar {
+      display: none;
+    }
+
+    .confete {
+      position: absolute;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      animation: cair 1s linear forwards;
+    }
+
+    @keyframes cair {
+      0% {
+        transform: translateY(0px) rotate(0deg);
+        opacity:1;
+      }
+      100% {
+        transform: translateY(200px) rotate(720deg);
+        opacity:0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Amaral Ofertas</h1>
+
+  <div id="menu-inicial">
+    <button class="btn-menu ml" onclick="mostrarCupons('ml')">Cupons Mercado Livre</button>
+    <button class="btn-menu shopee" onclick="mostrarCupons('shopee')">Cupons Shopee</button>
+  </div>
+
+  <!-- Frase abaixo dos botões -->
+  <div id="subtitulo">
+    As Melhores Ofertas e cupons você já sabe onde encontrar!
+  </div>
+
+  <div id="container-cupom"></div>
+
+  <script>
+    const cupons = [
+      {
+        "tipo": "ml",
+        "codigo": "M3LI10BR",
+        "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 10% OFF em R$ 79, Limitado a R$ 60 OFF 🔗 Em todos produtos Resgate aqui👇",
+        "link": "https://mercadolivre.com/sec/2Z9KCQk"
+      }
+    ];
+
+    window.mostrarCupons = function(tipo) {
+      const container = document.getElementById('container-cupom');
+      container.innerHTML = '';
+
+      cupons.filter(c => c.tipo === tipo).forEach(c => {
+        const div = document.createElement('div');
+        div.className = 'cupom';
+
+        const ultimos = c.codigo.slice(-4);
+        const titulo = c.tipo === 'ml' ? 'Mercado Livre' : 'Shopee';
+
+        div.innerHTML =
+          '<h3>' + titulo + '</h3>' +
+          '<div class="cupom-tampado">**** **** **** ' + ultimos + '</div>' +
+          '<div class="condicoes">' + c.condicoes + '</div>' +
+          '<button class="btn ' + c.tipo + '-btn">Revelar e Copiar Cupom</button>';
+
+        const btn = div.querySelector('button');
+        btn.addEventListener('click', () => {
+          const cupomDiv = div.querySelector('.cupom-tampado');
+          cupomDiv.textContent = c.codigo;
+
+          navigator.clipboard.writeText(c.codigo).then(() => {
+            btn.textContent = 'Cupom Copiado!';
+            btn.disabled = true;
+            window.explosaoConfete(div);
+            setTimeout(() => {
+              window.location.href = c.link;
+            }, 1000);
+          });
+        });
+
+        container.appendChild(div);
+      });
+    };
+
+    window.explosaoConfete = function(card) {
+      for(let i=0;i<40;i++){
+        const confete = document.createElement('div');
+        confete.className = 'confete';
+        confete.style.left = Math.random() * card.offsetWidth + 'px';
+        confete.style.top = '0px';
+        confete.style.width = confete.style.height = (Math.random()*8 + 5) + 'px';
+        confete.style.background = 'hsl(' + (Math.random()*360) + ',100%,50%)';
+        card.appendChild(confete);
+
+        const rot = Math.random()*720;
+        confete.animate(
+          [
+            { transform: 'translateY(0px) rotate(0deg)', opacity:1 },
+            { transform: 'translateY(' + (card.offsetHeight+100) + 'px) rotate(' + rot + 'deg)', opacity:0 }
+          ],
+          { duration: 1000 + Math.random()*500, easing: 'ease-out' }
+        );
+
+        setTimeout(()=> confete.remove(), 1500);
+      }
+    };
+  </script>
+</body>
+</html>

@@ -1,41 +1,4 @@
-const cupons = [
-  {
-    "tipo": "ml",
-    "codigo": "ETERNA",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 15% de Desconto com Limite de R$ 60 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "MELIGOL",
-    "condicoes": "Novo Cupom Mercado Livre 💛 15% 🚨 Cupom do mercado Livre 🏷 15% de Desconto compra mínima de R$79 Limite de R$60 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "W4T9Z4P1",
-    "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee 🏷 R$20,00 OFF em compra mínima de R$60,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "V3MQU3T3M10",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 10% OFF em R$ 79, Limite de R$ 60 OFF 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "FLAJOGO2K8R1T",
-    "condicoes": "Novo Cupom Shopee ! R$ 50,00 OFF em R$ 100,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "MELIFUT",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 15% OFF em R$ 79, Limite de R$ 60 OFF 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

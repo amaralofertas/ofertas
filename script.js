@@ -1,23 +1,4 @@
-const cupons = [
-  {
-    "tipo": "shopee",
-    "codigo": "4PP0Z4P6",
-    "condicoes": "Novo Cupom Shopee ! R$ 20,00 OFF em R$ 60,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "SH0IG29X8TR",
-    "condicoes": "Novo Cupom Shopee ! 🏷 Cashback de 50%, até R$ 50,00 em Moedas de volta Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "QU3ROD3Z",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 10% OFF com Limite de R$ 60 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

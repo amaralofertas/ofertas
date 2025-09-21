@@ -1,11 +1,4 @@
-const cupons = [
-  {
-    "tipo": "ml",
-    "codigo": "VINTENOML",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 20% de Desconto compra mínima de R$79 Limite de R$60 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

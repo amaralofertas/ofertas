@@ -30,12 +30,6 @@ const cupons = [
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   },
   {
-    "tipo": "shopee",
-    "codigo": " (no coupon code found)",
-    "condicoes": "Novo Cupom Shopee ! R$ 20 reais em compras acima de R$21 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
     "tipo": "ml",
     "codigo": "FOIAGORA20",
     "condicoes": "Novo Cupom Mercado Livre 💛 20% 🚨 Cupom do mercado Livre 🏷 20% de Desconto compra mínima de R$79 limite de R$60 🔗 Válido em 90% do site Resgate aqui👇",

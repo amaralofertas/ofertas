@@ -1,5 +1,11 @@
 const cupons = [
   {
+    "tipo": "ml",
+    "codigo": "MLV1Nt3PROMO",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 20% OFF compra mínima de R$79 limite de R$60 🔗 válido em 90% do site Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
     "tipo": "shopee",
     "codigo": "No coupon code found in the message.",
     "condicoes": "Novo Cupom Shopee ! 🚨 R$ 10 OFF em compra mínima de R$60 Resgate aqui👇",

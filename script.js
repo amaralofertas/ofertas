@@ -1,5 +1,11 @@
 const cupons = [
   {
+    "tipo": "shopee",
+    "codigo": "FLOR50",
+    "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee De loja 🏷 50% OFF nas compras acima de R$ 50 Limite de R$ 100 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
     "tipo": "ml",
     "codigo": "MLV1Nt3PROMO",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 20% OFF compra mínima de R$79 limite de R$60 🔗 válido em 90% do site Resgate aqui👇",

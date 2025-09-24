@@ -1,41 +1,4 @@
-const cupons = [
-  {
-    "tipo": "ml",
-    "codigo": "MLEXCLUSIVO",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 R$20 OFF em R$70 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "FLOR50",
-    "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee De loja 🏷 50% OFF nas compras acima de R$ 50 Limite de R$ 100 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "MLV1Nt3PROMO",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 20% OFF compra mínima de R$79 limite de R$60 🔗 válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "No coupon code found in the message.",
-    "condicoes": "Novo Cupom Shopee ! 🚨 R$ 10 OFF em compra mínima de R$60 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "Z4P4W4T5",
-    "condicoes": "Novo Cupom Shopee ! R$ 20,00 OFF em R$ 60,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "FOIAGORA20",
-    "condicoes": "Novo Cupom Mercado Livre 💛 20% 🚨 Cupom do mercado Livre 🏷 20% de Desconto compra mínima de R$79 limite de R$60 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

@@ -1,6 +1,12 @@
 const cupons = [
   {
     "tipo": "ml",
+    "codigo": "MLdia2xp",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre Selecionados 🏷 25% OFF ATÉ R$ 250,00 DE DESCONTO!! 🔗 Válido aqui Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
     "codigo": "V1NT3PR4VC",
     "condicoes": "Novo Cupom Mercado Livre 💛 20% OFF ATÉ R$ 60,00 DE DESCONTO!! Válido em 90% do site Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

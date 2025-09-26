@@ -1,4 +1,11 @@
-const cupons = [];
+const cupons = [
+  {
+    "tipo": "ml",
+    "codigo": "OFERTA20J4",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 20% OFF ATÉ R$ 60,00 DE DESCONTO!! 🔗 Válido em 90% do site. Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  }
+];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

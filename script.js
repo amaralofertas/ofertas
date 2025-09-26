@@ -1,47 +1,4 @@
-const cupons = [
-  {
-    "tipo": "ml",
-    "codigo": "ETERNA",
-    "condicoes": "Novo Cupom Mercado Livre 💛 🚨 Cupom do mercado Livre 🏷 15% OFF com Limite de R$ 60 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "Z4P7W4T2",
-    "condicoes": "Novo Cupom Shopee ! R$ 20,00 OFF em R$ 60,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "IG5SH0KQW7",
-    "condicoes": "Novo Cupom Shopee ! Cashback de 50%, até R$ 50,00 em Moedas de volta Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "FLAJOGO4A2N7B",
-    "condicoes": "Novo Cupom Shopee ! R$ 10,00 OFF Sem Valor mínimo Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "M45EB3BE20",
-    "condicoes": "Novo Cupom Shopee ! R$ 20,00 OFF em R$ 119,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "MLdia2xp",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre Selecionados 🏷 25% OFF ATÉ R$ 250,00 DE DESCONTO!! 🔗 Válido aqui Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "V1NT3PR4VC",
-    "condicoes": "Novo Cupom Mercado Livre 💛 20% OFF ATÉ R$ 60,00 DE DESCONTO!! Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

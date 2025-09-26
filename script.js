@@ -1,5 +1,11 @@
 const cupons = [
   {
+    "tipo": "ml",
+    "codigo": "ETERNA",
+    "condicoes": "Novo Cupom Mercado Livre 💛 🚨 Cupom do mercado Livre 🏷 15% OFF com Limite de R$ 60 🔗 Válido em 90% do site Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
     "tipo": "shopee",
     "codigo": "Z4P7W4T2",
     "condicoes": "Novo Cupom Shopee ! R$ 20,00 OFF em R$ 60,00 Resgate aqui👇",

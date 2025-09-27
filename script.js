@@ -1,6 +1,12 @@
 const cupons = [
   {
     "tipo": "ml",
+    "codigo": "MIDEA",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom Mercado Livre MIDEA 🏷 20% de Desconto com Limite de R$199 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
     "codigo": "MELISEXTOU20",
     "condicoes": "Novo Cupom Mercado Livre 💛 20% OFF compra mínima de R$79 limite de R$40 🔗 Válido em 90% do site Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

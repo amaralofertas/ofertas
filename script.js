@@ -1,29 +1,4 @@
-const cupons = [
-  {
-    "tipo": "ml",
-    "codigo": "MIDEA",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom Mercado Livre MIDEA 🏷 20% de Desconto com Limite de R$199 Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "MELISEXTOU20",
-    "condicoes": "Novo Cupom Mercado Livre 💛 20% OFF compra mínima de R$79 limite de R$40 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "MVFKRMFND6211",
-    "condicoes": "Novo Cupom Shopee ! R$ 50,00 OFF Sem Valor mínimo Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "OFERTA20J4",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 20% OFF ATÉ R$ 60,00 DE DESCONTO!! 🔗 Válido em 90% do site. Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

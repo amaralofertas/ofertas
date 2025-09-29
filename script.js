@@ -1,17 +1,4 @@
-const cupons = [
-  {
-    "tipo": "shopee",
-    "codigo": "9KZ1pCkZBX",
-    "condicoes": "Novo Cupom Shopee ! Tecnologia Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "BBVINTE",
-    "condicoes": "Novo Cupom Mercado Livre 💛 20% 🚨 Cupom do mercado Livre 🏷 20% de Desconto com Limite de R$ 60 compra mínima de R$79 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

@@ -1,29 +1,4 @@
-const cupons = [
-  {
-    "tipo": "shopee",
-    "codigo": "4PP9W4T4",
-    "condicoes": "Novo Cupom Shopee ! 💛 R$ 20,00 OFF 🚨 Cupom Shopee 🏷 R$ 20,00 de desconto em compra mínima de R$ 60,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "4PP9W4T4",
-    "condicoes": "Novo Cupom Shopee ! 💛 R$20,00 OFF em compra mínima de R$60,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "Desculpe, não encontrei nenhum cupom válido na mensagem fornecida.",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 R$ 150,00 OFF em 600 em celulares JOVI (VIVO) Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "M3LI20HOJ3",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 20% de Desconto acima de R$ 79 com limite de R$ 60 🔗 Válido em 90% do site Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

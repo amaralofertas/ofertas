@@ -1,4 +1,11 @@
-const cupons = [];
+const cupons = [
+  {
+    "tipo": "ml",
+    "codigo": "DESCONTAHOJE20",
+    "condicoes": "Novo Cupom Mercado Livre SUPER Cupom do mercado Livre 20% OFF acima de R$999 limite R$210 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  }
+];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

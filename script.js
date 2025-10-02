@@ -1,6 +1,12 @@
 const cupons = [
   {
     "tipo": "ml",
+    "codigo": "ESQUENTA10",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 10% OFF com Limite de R$ 40 🔗 Válido em 90% do site Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
     "codigo": "No coupon code was found in the provided message.",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom Mercado Livre em Selecionados 🏷 R$ 120 OFF em compras acima de R$ 1399 Resgate em anúncios da Lista Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

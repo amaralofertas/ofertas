@@ -1,5 +1,17 @@
 const cupons = [
   {
+    "tipo": "shopee",
+    "codigo": "L9LR63XP9",
+    "condicoes": "Novo Cupom Shopee ! 🏷 R$20,00 OFF em compras de R$60,00 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "ml",
+    "codigo": "V1RTU4LM3L1D",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 30% OFF limite R$40 🔗 Válido em 90% do site Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
     "tipo": "ml",
     "codigo": "PROMOBRINQUEDO",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 40% off, compra mínima de R$79 e desconto máximo de R$100 🔗 Lista Resgate aqui👇",

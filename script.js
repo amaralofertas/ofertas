@@ -1,5 +1,11 @@
 const cupons = [
   {
+    "tipo": "shopee",
+    "codigo": "UDK82YQYG",
+    "condicoes": "Novo Cupom Shopee ! 🏷 Cashback de 50%, até R$ 50,00 em Moedas de volta Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
     "tipo": "ml",
     "codigo": "brincarpromo",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 25% OFF limite R$100 🔗 Válido aqui Resgate aqui👇",

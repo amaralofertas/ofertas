@@ -1,4 +1,11 @@
-const cupons = [];
+const cupons = [
+  {
+    "tipo": "ml",
+    "codigo": "M3LI4PROV3IT4",
+    "condicoes": "Novo Cupom Mercado Livre 20% de Desconto com Limite de R$60 compra mínima de R$79 🔗 Válido em 90% do site Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  }
+];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

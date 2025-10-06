@@ -1,5 +1,11 @@
 const cupons = [
   {
+    "tipo": "shopee",
+    "codigo": "Z9WSV2QXV",
+    "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee 🏷 R$ 10,00 OFF em R$ 40,00 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
     "tipo": "ml",
     "codigo": "brincarpromo",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre Ativo 🏷 30% OFF limite R$100 🔗 Válido aqui Resgate aqui👇",

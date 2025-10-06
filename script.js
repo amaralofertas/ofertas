@@ -2,6 +2,12 @@ const cupons = [
   {
     "tipo": "ml",
     "codigo": "brincarpromo",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre Ativo 🏷 30% OFF limite R$100 🔗 Válido aqui Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
+    "codigo": "brincarpromo",
     "condicoes": "Novo Cupom Mercado Livre 💛 30% 🚨 Cupom do mercado Livre Ativo 🏷 30% OFF limite R$100 OFF 🔗 Válido aqui Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
   },

@@ -2,6 +2,12 @@ const cupons = [
   {
     "tipo": "ml",
     "codigo": "V3MQU3T3M1",
+    "condicoes": "Novo Cupom Mercado Livre 💛 20% OFF compra mínima de R$79 limite de R$60 válido em 90% do site Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
+    "codigo": "V3MQU3T3M1",
     "condicoes": "Novo Cupom Mercado Livre 20% de Desconto compra mínima de R$79 limite de R$40 válido em 90% do site Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
   },

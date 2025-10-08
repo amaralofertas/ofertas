@@ -1,6 +1,12 @@
 const cupons = [
   {
     "tipo": "ml",
+    "codigo": "M3LI3XPR3SS",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 30% de Desconto com compra mínima de R$79 Limite de R$60 válido em 90% do site Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
     "codigo": "PROMOHOJE",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🔥 20% OFF com limite de R$ 150 de desconto 🔗 Em todos os produtos Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

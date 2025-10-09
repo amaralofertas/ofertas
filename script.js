@@ -1,4 +1,11 @@
-const cupons = [];
+const cupons = [
+  {
+    "tipo": "shopee",
+    "codigo": "W2P8K0Y3R",
+    "condicoes": "Novo Cupom Shopee ! R$ 10,00 OFF em compras de R$ 40,00 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  }
+];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

@@ -102,6 +102,12 @@ const cupons = [
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   },
   {
+    "tipo": "ml",
+    "codigo": "AGORAMELI",
+    "condicoes": "Novo Cupom Mercado Livre 🏷 20% OFF acima de R$999 limite de R$500 🔗 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
     "tipo": "shopee",
     "codigo": "20ATE99",
     "condicoes": "Novo Cupom Shopee ! 20% OFF com limite de até R$10,00 OFF em compras acima de R$29,00 Resgate aqui👇",

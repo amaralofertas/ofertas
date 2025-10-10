@@ -30,6 +30,12 @@ const cupons = [
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   },
   {
+    "tipo": "ml",
+    "codigo": "EENCONTREINAWEBUH",
+    "condicoes": "Novo Cupom Mercado Livre 15% OFF em compras acima de R$ 79 (Máximo R$ 80 de desconto) Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
     "tipo": "shopee",
     "codigo": "O3Q9X0P5R",
     "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee 🏷 R$ 10,00 OFF em R$ 40,00 Resgate aqui👇",

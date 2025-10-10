@@ -1,6 +1,12 @@
 const cupons = [
   {
     "tipo": "shopee",
+    "codigo": "A5T6X8P3R",
+    "condicoes": "Novo Cupom Shopee ! 🏷 R$10,00 OFF em R$40,00 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "shopee",
     "codigo": "V8LP1X",
     "condicoes": "Novo Cupom Shopee ! 🏷 R$ 10,00 OFF em R$ 80,00 Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"

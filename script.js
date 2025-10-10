@@ -82,6 +82,12 @@ const cupons = [
     "codigo": "Nenhum código de cupom encontrado.",
     "condicoes": "Novo Cupom Mercado Livre 🚨 40% OFF compra mínima de R$79 limite de R$100.00 🔗 Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
+    "codigo": "04C4D0M3L1",
+    "condicoes": "Novo Cupom Mercado Livre 10% de Desconto com Limite de R$ 100 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
   }
 ];
 

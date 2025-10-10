@@ -1,6 +1,12 @@
 const cupons = [
   {
     "tipo": "shopee",
+    "codigo": "DIADASCRIANCAS30",
+    "condicoes": "Novo Cupom Shopee ! R$30,00 OFF em R$359,00 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "shopee",
     "codigo": "A5T6X8P3R",
     "condicoes": "Novo Cupom Shopee ! 🏷 R$10,00 OFF em R$40,00 Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"

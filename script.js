@@ -66,6 +66,12 @@ const cupons = [
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
   },
   {
+    "tipo": "ml",
+    "codigo": "OYPECHINCHOUZ",
+    "condicoes": "Novo Cupom Mercado Livre 💛 15% 🚨 Cupom do Mercado Livre 🏷 15% de Desconto acima de R$79 Limite de R$80 🔗 Em todos produtos Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
     "tipo": "shopee",
     "codigo": "20ACIMA200",
     "condicoes": "Novo Cupom Shopee ! 20% OFF com limite de até R$ 40,00 em compras acima de R$ 189,00 Resgate aqui👇",

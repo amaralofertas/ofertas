@@ -184,6 +184,12 @@ const cupons = [
     "codigo": "T4NG3L4",
     "condicoes": "Novo Cupom Shopee ! R$ 25,00 OFF em R$ 150,00 Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "DEP2P5CWX",
+    "condicoes": "Novo Cupom Shopee ! Cashback de 50%, até R$ 50,00 em Moedas de volta Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];
 

@@ -1,17 +1,4 @@
-const cupons = [
-  {
-    "tipo": "ml",
-    "codigo": "ESQUENTA10",
-    "condicoes": "Novo Cupom Mercado Livre 10% OFF com limite de R$40 e R$200 OFF em telas grandes Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "ESQUENTA10",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom Mercado Livre 🏷 10% OFF com Limite de R$ 40 e R$ 200 OFF em Telas Grandes Resgate em produtos da lista válido para essa lista Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

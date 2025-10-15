@@ -1,17 +1,4 @@
-const cupons = [
-  {
-    "tipo": "ml",
-    "codigo": "DESCONTOMAX",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do Mercado Livre 🏷 10% de Desconto com Limite de R$ 60 🔗 Em todos os produtos Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "KA5Y02V1P",
-    "condicoes": "Novo Cupom Shopee ! 🏷 Cashback de 50%, até R$ 50,00 em Moedas de volta Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

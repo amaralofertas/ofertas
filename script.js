@@ -4,6 +4,12 @@ const cupons = [
     "codigo": "VENHAPROMO",
     "condicoes": "Novo Cupom Mercado Livre 🏷 10% OFF com Limite de R$ 60 Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "2B7I2UH4Q",
+    "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee 🏷 Cashback de 50% até R$ 50,00 em Moedas de volta Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];
 

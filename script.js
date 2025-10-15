@@ -1,6 +1,12 @@
 const cupons = [
   {
     "tipo": "ml",
+    "codigo": "VENHAPROMO",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom Mercado Livre 🏷 15% OFF com Limite de R$ 60 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
     "codigo": "SEM CUPOM",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do Mercado Livre 🏷 20% OFF em Huggies Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

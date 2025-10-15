@@ -7,6 +7,12 @@ const cupons = [
   },
   {
     "tipo": "ml",
+    "codigo": "OFERTAMELI",
+    "condicoes": "Novo Cupom Mercado Livre 💛 20% 🚨 Cupom Mercado Livre 🏷 20% de Desconto com Limite de R$ 60 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
     "codigo": "SEM CUPOM",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do Mercado Livre 🏷 20% OFF em Huggies Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

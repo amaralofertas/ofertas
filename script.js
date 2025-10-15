@@ -24,6 +24,12 @@ const cupons = [
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
   },
   {
+    "tipo": "ml",
+    "codigo": "MAISVENDASNABLACK",
+    "condicoes": "Novo Cupom Mercado Livre 🏷 R$ 30 OFF em compras de R$ 199 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
     "tipo": "shopee",
     "codigo": "2B7I2UH4Q",
     "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee 🏷 Cashback de 50% até R$ 50,00 em Moedas de volta Resgate aqui👇",

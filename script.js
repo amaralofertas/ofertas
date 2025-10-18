@@ -36,6 +36,12 @@ const cupons = [
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   },
   {
+    "tipo": "ml",
+    "codigo": "CAMISA18",
+    "condicoes": "Novo Cupom Mercado Livre 🏷 18% OFF com limite máximo de R$ 60 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
     "tipo": "shopee",
     "codigo": "AA8cvMnwvZ",
     "condicoes": "Novo Cupom Shopee ! Resgate aqui👇",

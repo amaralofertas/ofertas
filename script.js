@@ -34,6 +34,12 @@ const cupons = [
     "codigo": "2B7I2UH4Q",
     "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee 🏷 Cashback de 50% até R$ 50,00 em Moedas de volta Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "AA8cvMnwvZ",
+    "condicoes": "Novo Cupom Shopee ! Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];
 

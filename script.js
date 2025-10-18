@@ -49,6 +49,12 @@ const cupons = [
   },
   {
     "tipo": "ml",
+    "codigo": "TURBINA20",
+    "condicoes": "Novo Cupom Mercado Livre 20% de Desconto com Limite de R$ 40 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
     "codigo": "CHAMADA15",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom Mercado Livre 🏷 15% OFF com limite máximo de R$ 80 🔗 Em todos produtos Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

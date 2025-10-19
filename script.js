@@ -1,23 +1,4 @@
-const cupons = [
-  {
-    "tipo": "ml",
-    "codigo": "OFERTAHOJE",
-    "condicoes": "Novo Cupom Mercado Livre 20% OFF com Limite de R$ 60 Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "Nenhum código de cupom encontrado.",
-    "condicoes": "Novo Cupom Mercado Livre 10% OFF acima de R$30 limitado a R$150 em FTW Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "NOVIDADEMELI",
-    "condicoes": "Novo Cupom Mercado Livre 💛 15% 🚨 Cupom Mercado Livre 🏷 15% de Desconto com Limite de R$ 60 🔗 Em todos produtos Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

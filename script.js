@@ -1,4 +1,11 @@
-const cupons = [];
+const cupons = [
+  {
+    "tipo": "ml",
+    "codigo": "COMBOMELI",
+    "condicoes": "Novo Cupom Mercado Livre 💛 12% 🚨 Cupom Mercado Livre 🏷 12% de Desconto com Limite de R$ 60 🔗 Em todos produtos Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  }
+];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

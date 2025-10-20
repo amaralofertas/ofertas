@@ -16,6 +16,12 @@ const cupons = [
     "codigo": "COMBOMELI",
     "condicoes": "Novo Cupom Mercado Livre 💛 12% 🚨 Cupom Mercado Livre 🏷 12% de Desconto com Limite de R$ 60 🔗 Em todos produtos Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "qauoiA347",
+    "condicoes": "Novo Cupom Shopee ! Cupom Shopee foi corrigido Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];
 

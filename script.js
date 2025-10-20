@@ -13,6 +13,12 @@ const cupons = [
   },
   {
     "tipo": "ml",
+    "codigo": "COMBOMELIC",
+    "condicoes": "Novo Cupom Mercado Livre 💛 15% 🚨 Cupom Mercado Livre 🏷 15% de Desconto com Limite de R$ 60 🔗 Em qualquer produto Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
     "codigo": "COMBOMELI",
     "condicoes": "Novo Cupom Mercado Livre 💛 12% 🚨 Cupom Mercado Livre 🏷 12% de Desconto com Limite de R$ 60 🔗 Em todos produtos Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

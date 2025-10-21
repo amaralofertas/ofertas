@@ -1,56 +1,8 @@
 const cupons = [
   {
-    "tipo": "ml",
-    "codigo": "COMBOMELIC",
-    "condicoes": "Novo Cupom Mercado Livre 💛 12% OFF 🏷 12% de Desconto com Limite de R$ 60 Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "OFERTADEHOJE",
-    "condicoes": "Novo Cupom Mercado Livre 20% OFF com limite de R$60, 15% OFF com limite de R$60 Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "OFERTADEHOJE",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom Mercado Livre 🏷 20% OFF com limite de R$60 🔗 Em todos produtos Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
     "tipo": "shopee",
     "codigo": "GR4ND3S5OFFAF",
     "condicoes": "Novo Cupom Shopee ! R$ 5,00 OFF em R$ 20,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "COMBOMELIC",
-    "condicoes": "Novo Cupom Mercado Livre 💛 15% 🚨 Cupom Mercado Livre 🏷 15% de Desconto com Limite de R$ 60 🔗 Em qualquer produto Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "GMC0M10OFFAF",
-    "condicoes": "Novo Cupom Shopee ! R$50% limitado a R$10 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "COMBOMELI",
-    "condicoes": "Novo Cupom Mercado Livre 💛 12% 🚨 Cupom Mercado Livre 🏷 12% de Desconto com Limite de R$ 60 🔗 Em todos produtos Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "T69FI3E8C",
-    "condicoes": "Novo Cupom Shopee ! 🏷 R$20,00 OFF em compra mínima de R$60,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "qauoiA347",
-    "condicoes": "Novo Cupom Shopee ! Cupom Shopee foi corrigido Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];

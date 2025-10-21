@@ -28,6 +28,12 @@ const cupons = [
     "codigo": "CHEGOUPROMO",
     "condicoes": "Novo Cupom Mercado Livre 20% OFF com Limite de R$ 60 Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
+    "codigo": " (no coupon code found)",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom Mercado Livre 🏷 30% OFF em Selecionados, Limite de R$ 50 OFF Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
   }
 ];
 

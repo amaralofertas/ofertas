@@ -1,6 +1,12 @@
 const cupons = [
   {
     "tipo": "ml",
+    "codigo": "CHEGOUMELI",
+    "condicoes": "Novo Cupom Mercado Livre 💛 20% OFF 🏷 Limite de R$60 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
     "codigo": "PROMODOMELI",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 15% de Desconto com Limite de R$ 60 🔗 Em algum produto do link Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

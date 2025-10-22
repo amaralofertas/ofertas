@@ -1,6 +1,12 @@
 const cupons = [
   {
     "tipo": "ml",
+    "codigo": "Nenhum código encontrado.",
+    "condicoes": "Novo Cupom Mercado Livre 30% OFF em Pampers Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
     "codigo": "CHEGOUMELI",
     "condicoes": "Novo Cupom Mercado Livre 💛 20% OFF 🏷 Limite de R$60 Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

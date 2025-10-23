@@ -1,41 +1,4 @@
-const cupons = [
-  {
-    "tipo": "ml",
-    "codigo": "Nenhum código encontrado.",
-    "condicoes": "Novo Cupom Mercado Livre 30% OFF em Pampers Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "CHEGOUMELI",
-    "condicoes": "Novo Cupom Mercado Livre 💛 20% OFF 🏷 Limite de R$60 Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "FLAJOGO6F9W2A",
-    "condicoes": "Novo Cupom Shopee ! R$ 25,00 OFF Sem Valor mínimo Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "4F4GEOYSI",
-    "condicoes": "Novo Cupom Shopee ! 🏷 R$ 20,00 OFF em R$ 60,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "PROMODOMELI",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do mercado Livre 🏷 15% de Desconto com Limite de R$ 60 🔗 Em algum produto do link Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "ml",
-    "codigo": "MELICUPOM",
-    "condicoes": "Novo Cupom Mercado Livre 💛 15% e 20% de Desconto com Limite de R$60 🔗 Ative em algum produto do link Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

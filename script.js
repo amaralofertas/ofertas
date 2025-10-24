@@ -1,17 +1,4 @@
-const cupons = [
-  {
-    "tipo": "shopee",
-    "codigo": "DR4G8N4",
-    "condicoes": "Novo Cupom Shopee ! 🏷 R$ 10,00 OFF em R$ 80,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "1MA43OFKD",
-    "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee 🏷 Cashback de 50% até R$ 50,00 em Moedas de volta Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

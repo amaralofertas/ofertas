@@ -1,4 +1,11 @@
-const cupons = [];
+const cupons = [
+  {
+    "tipo": "ml",
+    "codigo": "MENOS20",
+    "condicoes": "Novo Cupom Mercado Livre 💛 20% 🚨 Cupom do Mercado Livre 🏷 20% de Desconto com Limite de R$60 🔗 Em produtos selecionados Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  }
+];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

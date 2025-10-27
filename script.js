@@ -16,6 +16,12 @@ const cupons = [
     "codigo": "CUPOMHOJE",
     "condicoes": "Novo Cupom Mercado Livre 💛 25% 🚨 Cupom do Mercado Livre 🏷 25% de Desconto com Limite de R$ 60 🔗 Em todos produtos Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "4LAf0l6Rmt",
+    "condicoes": "Novo Cupom Shopee ! R$ 100 OFF em R$ 899 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];
 

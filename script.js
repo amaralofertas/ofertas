@@ -16,6 +16,12 @@ const cupons = [
     "codigo": "MAR4TON4DOL4R",
     "condicoes": "Novo Cupom Shopee ! 15% OFF, com limite de até R$ 75,00 OFF, em compras acima de R$ 39,00 Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "EXIN5HL9X",
+    "condicoes": "Novo Cupom Shopee ! R$20,00 OFF em R$60,00 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];
 

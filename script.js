@@ -4,6 +4,12 @@ const cupons = [
     "codigo": "PETSHOP20",
     "condicoes": "Novo Cupom Mercado Livre 40% de Desconto em Pet Shop Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "ZEDELIVERY64XQ8RA8",
+    "condicoes": "Novo Cupom Shopee ! 🏷 R$ 10,00 OFF em compra mínima de R$ 50,00 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];
 

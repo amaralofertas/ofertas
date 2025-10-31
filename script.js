@@ -10,6 +10,12 @@ const cupons = [
     "codigo": "ZEDELIVERY64XQ8RA8",
     "condicoes": "Novo Cupom Shopee ! 🏷 R$ 10,00 OFF em compra mínima de R$ 50,00 Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "ml",
+    "codigo": "SUPEROFERTA",
+    "condicoes": "Novo Cupom Mercado Livre 20% OFF, Limite de R$ 200 OFF Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
   }
 ];
 

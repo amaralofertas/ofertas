@@ -1,4 +1,11 @@
-const cupons = [];
+const cupons = [
+  {
+    "tipo": "shopee",
+    "codigo": "MAIORDOANO50",
+    "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee 🏷 R$ 50,00 OFF em R$ 249,00 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  }
+];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

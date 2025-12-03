@@ -192,6 +192,12 @@ const cupons = [
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   },
   {
+    "tipo": "ml",
+    "codigo": "CORREPROMELI",
+    "condicoes": "Novo Cupom Mercado Livre 💛 🚨 Cupom do Mercado Livre 🏷 18% de Desconto com Limite de R$60, 25% de Desconto com Limite de R$40, 15% de Desconto com Limite de R$60 🔗 Em todos produtos Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
     "tipo": "shopee",
     "codigo": "NACAO50",
     "condicoes": "Novo Cupom Shopee ! R$ 50,00 OFF em R$ 250,00 Resgate aqui👇",
@@ -249,12 +255,6 @@ const cupons = [
     "tipo": "shopee",
     "codigo": "X8D3E9R5PQ",
     "condicoes": "Novo Cupom Shopee ! R$ 10,00 OFF em R$ 40,00 para todas as lojas Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "T1X4S8G7LB",
-    "condicoes": "Novo Cupom Shopee ! 💛 R$20,00 OFF 🏷 R$20,00 de desconto em compra mínima de R$60,00 🔗 Em todas as lojas Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];

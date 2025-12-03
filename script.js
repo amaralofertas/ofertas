@@ -43,6 +43,12 @@ const cupons = [
   },
   {
     "tipo": "shopee",
+    "codigo": "LAVADORA25OFF",
+    "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee 🏷 25% OFF com limite de até R$ 225,00 em compras acima de R$ 500,00 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "shopee",
     "codigo": "N6J3XZQ0FW",
     "condicoes": "Novo Cupom Shopee ! Cashback de 50%, até R$ 50,00 em Moedas de volta para TODAS AS LOJAS Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"

@@ -210,6 +210,12 @@ const cupons = [
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   },
   {
+    "tipo": "ml",
+    "codigo": "3SP3C1T1",
+    "condicoes": "Novo Cupom Mercado Livre 8% OFF máximo de R$150, 20% OFF limite de R$150, 15% OFF máximo de R$50, 25% OFF máximo de R$40 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
     "tipo": "shopee",
     "codigo": "P4NTERA11SH0",
     "condicoes": "Novo Cupom Shopee ! R$ 10,00 OFF em R$ 40,00 Resgate aqui👇",
@@ -249,12 +255,6 @@ const cupons = [
     "tipo": "shopee",
     "codigo": "L5J0X2V8RH",
     "condicoes": "Novo Cupom Shopee ! R$ 10,00 OFF em R$ 40,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "X8D3E9R5PQ",
-    "condicoes": "Novo Cupom Shopee ! R$ 10,00 OFF em R$ 40,00 para todas as lojas Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];

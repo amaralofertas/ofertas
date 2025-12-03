@@ -6,6 +6,12 @@ const cupons = [
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   },
   {
+    "tipo": "ml",
+    "codigo": "PROMOML",
+    "condicoes": "Novo Cupom Mercado Livre 💛 30% OFF com limite de R$40 e 25% OFF com limite de R$40 🔗 Em todos os produtos Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
     "tipo": "shopee",
     "codigo": "k3l1h5f8",
     "condicoes": "Novo Cupom Shopee ! Resgate aqui👇",

@@ -127,6 +127,12 @@ const cupons = [
   },
   {
     "tipo": "shopee",
+    "codigo": "F3N2K8RJXG",
+    "condicoes": "Novo Cupom Shopee ! 🏷 R$ 50,00 OFF em R$ 120,00 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "shopee",
     "codigo": "CADEIRA30OFF",
     "condicoes": "Novo Cupom Shopee ! 💛 30% 🚨 Cupom Shopee 🏷 30% de Desconto com Limite de R$ 165 compra mínima de R$ 129 Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
@@ -249,12 +255,6 @@ const cupons = [
     "tipo": "shopee",
     "codigo": "TV25OFF",
     "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee 🏷 25% OFF com limite de até R$ 225,00 em compras acima de R$ 500,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "W1Y9C8Q3UZ",
-    "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee! 🏷 R$ 10,00 OFF em R$ 40,00 Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];

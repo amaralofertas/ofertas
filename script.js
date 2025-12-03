@@ -13,6 +13,12 @@ const cupons = [
   },
   {
     "tipo": "ml",
+    "codigo": "L1P3PRM12",
+    "condicoes": "Novo Cupom Mercado Livre 8% OFF, máximo de R$ 150 OFF Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
     "codigo": "M4RC3L15EL",
     "condicoes": "Novo Cupom Mercado Livre 15% OFF, máximo de R$ 80 OFF Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

@@ -174,6 +174,12 @@ const cupons = [
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   },
   {
+    "tipo": "ml",
+    "codigo": "DATADUPLA20",
+    "condicoes": "Novo Cupom Mercado Livre 20% OFF limite R$150 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
     "tipo": "shopee",
     "codigo": "SUPLEMENTO10OFF",
     "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee 🏷 R$ 10,00 OFF em compras de R$ 90,00 Resgate aqui👇",
@@ -249,12 +255,6 @@ const cupons = [
     "tipo": "shopee",
     "codigo": "T1X4S8G7LB",
     "condicoes": "Novo Cupom Shopee ! 💛 R$20,00 OFF 🏷 R$20,00 de desconto em compra mínima de R$60,00 🔗 Em todas as lojas Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "TV25OFF",
-    "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee 🏷 25% OFF com limite de até R$ 225,00 em compras acima de R$ 500,00 Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];

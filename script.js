@@ -4,6 +4,12 @@ const cupons = [
     "codigo": "MODAAQUINOMELI",
     "condicoes": "Novo Cupom Mercado Livre 💛 15% OFF 🚨 Limite de R$ 100 Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "FLAJ2M1SA6",
+    "condicoes": "Novo Cupom Shopee ! R$ 25,00 OFF Sem Valor mínimo Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];
 

@@ -70,6 +70,12 @@ const cupons = [
     "codigo": "M4RC3L15EL",
     "condicoes": "Novo Cupom Mercado Livre 🚨 CUPOM MERCADO LIVRE 15% OFF, máximo de R$ 80 OFF 🔗 Em todos produtos Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
+    "codigo": "DESCONTOS",
+    "condicoes": "Novo Cupom Mercado Livre 💛 25% 🚨 Cupom do Mercado Livre 🏷 25% de Desconto com Limite de R$40 🔗 Em todos produtos Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
   }
 ];
 

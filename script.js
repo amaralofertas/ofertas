@@ -1,11 +1,4 @@
-const cupons = [
-  {
-    "tipo": "ml",
-    "codigo": "RELAMPAGOML",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 CUPOM MERCADO LIVRE 🏷 15% OFF limite R$60 🔗 Em todos produtos Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

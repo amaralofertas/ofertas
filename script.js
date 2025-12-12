@@ -18,6 +18,12 @@ const cupons = [
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
   },
   {
+    "tipo": "ml",
+    "codigo": "NATALCOM10",
+    "condicoes": "Novo Cupom Mercado Livre 🏷 10% de Desconto com Limite de R$ 70 🏷 15% de Desconto com Limite de R$ 60 🏷 R$200 de Desconto em compras acima de R$ 1299 🔗 Em todos produtos Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
     "tipo": "shopee",
     "codigo": "P4NTER412SH",
     "condicoes": "Novo Cupom Shopee ! 🏷 R$ 10,00 OFF em R$ 40,00 Resgate aqui👇",

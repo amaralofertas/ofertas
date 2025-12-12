@@ -4,6 +4,12 @@ const cupons = [
     "codigo": "30OFFNO1212AF",
     "condicoes": "Novo Cupom Shopee ! 30% de Desconto com Limite de R$15 20% de Desconto com Limite de R$5 Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "P4NTER412SH",
+    "condicoes": "Novo Cupom Shopee ! 🏷 R$ 10,00 OFF em R$ 40,00 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];
 

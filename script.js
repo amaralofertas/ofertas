@@ -8,6 +8,12 @@ const cupons = [
   {
     "tipo": "ml",
     "codigo": "ACHADINHOS30",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do Mercado Livre 🏷 30% OFF com Limite de R$ 60 🔗 Em qualquer produto Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
+    "codigo": "ACHADINHOS30",
     "condicoes": "Novo Cupom Mercado Livre 💛 18% 🚨 Cupom do Mercado Livre 🏷 18% de Desconto com Limite de R$ 60 💛 30% 🚨 Cupom do Mercado Livre 🏷 30% de Desconto com Limite de R$ 40 🔗 Em produtos do link Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
   },

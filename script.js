@@ -1,4 +1,11 @@
-const cupons = [];
+const cupons = [
+  {
+    "tipo": "shopee",
+    "codigo": "30OFFNO1212AF",
+    "condicoes": "Novo Cupom Shopee ! 30% OFF (desconto máximo de R$15) 20% OFF (desconto máximo de R$5) Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  }
+];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

@@ -34,6 +34,12 @@ const cupons = [
     "codigo": "NATALCOM10",
     "condicoes": "Novo Cupom Mercado Livre 💛 10% de Desconto com Limite de R$ 70 | 15% de Desconto com Limite de R$ 60 | R$200 de Desconto em compras acima de R$1299 | 15% de Desconto com Limite de R$ 60 Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
+    "codigo": "Nenhum código de cupom encontrado.",
+    "condicoes": "Novo Cupom Mercado Livre 40% OFF acima de R$65 limitado a R$200 nos brinquedos da lista Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
   }
 ];
 

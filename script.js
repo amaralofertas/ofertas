@@ -43,6 +43,12 @@ const cupons = [
   },
   {
     "tipo": "ml",
+    "codigo": "DESCONTOAGORA",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do Mercado Livre 🏷 15% OFF com Limite de R$ 80 🔗 Válido nos produtos do link Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
     "codigo": "Nenhum código de cupom encontrado.",
     "condicoes": "Novo Cupom Mercado Livre 40% OFF acima de R$65 limitado a R$200 nos brinquedos da lista Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

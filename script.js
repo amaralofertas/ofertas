@@ -1,4 +1,11 @@
-const cupons = [];
+const cupons = [
+  {
+    "tipo": "shopee",
+    "codigo": "Não há código de cupom na mensagem fornecida.",
+    "condicoes": "Novo Cupom Shopee ! 🚨 🏷 15% OFF limitado a 10% Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  }
+];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

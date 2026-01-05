@@ -10,6 +10,12 @@ const cupons = [
     "codigo": "Não há código de cupom na mensagem fornecida.",
     "condicoes": "Novo Cupom Shopee ! 🚨 🏷 15% OFF limitado a 10% Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "ml",
+    "codigo": "AGORADESCONTO",
+    "condicoes": "Novo Cupom Mercado Livre 💛 15% OFF acima de R$79 (limite R$80); 15% OFF limite R$80; 20% OFF limite R$60 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
   }
 ];
 

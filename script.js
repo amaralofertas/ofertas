@@ -16,6 +16,12 @@ const cupons = [
     "codigo": "AGORADESCONTO",
     "condicoes": "Novo Cupom Mercado Livre 💛 15% OFF acima de R$79 (limite R$80); 15% OFF limite R$80; 20% OFF limite R$60 Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "T3RG3RG3AAF",
+    "condicoes": "Novo Cupom Shopee ! 40% OFF sem mínimo, Limite R$ 15 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];
 

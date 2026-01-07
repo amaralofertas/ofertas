@@ -22,6 +22,12 @@ const cupons = [
     "codigo": "T3RG3RG3AAF",
     "condicoes": "Novo Cupom Shopee ! 40% OFF sem mínimo, Limite R$ 15 Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "LC10ACC",
+    "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee! 🏷 R$ 10,00 OFF em R$ 80,00 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];
 

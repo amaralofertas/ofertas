@@ -40,6 +40,12 @@ const cupons = [
     "codigo": "1",
     "condicoes": "Novo Cupom Shopee ! Cupom Shopee Esgotando Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "ml",
+    "codigo": "SOHOJE",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do Mercado Livre 🏷 R$200 OFF em compra mínima de R$1399 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
   }
 ];
 

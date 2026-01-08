@@ -28,6 +28,12 @@ const cupons = [
     "codigo": "LC10ACC",
     "condicoes": "Novo Cupom Shopee ! 🚨 Cupom Shopee! 🏷 R$ 10,00 OFF em R$ 80,00 Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "1",
+    "condicoes": "Novo Cupom Shopee ! Cupom Shopee Esgotando Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];
 

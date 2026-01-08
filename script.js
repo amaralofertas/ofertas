@@ -31,6 +31,12 @@ const cupons = [
   },
   {
     "tipo": "shopee",
+    "codigo": "25N011B29AF",
+    "condicoes": "Novo Cupom Shopee ! 60% OFF Nas compras acima de R$0 Limite de R$25 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "shopee",
     "codigo": "1",
     "condicoes": "Novo Cupom Shopee ! Cupom Shopee Esgotando Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"

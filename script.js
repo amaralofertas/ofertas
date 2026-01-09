@@ -16,6 +16,12 @@ const cupons = [
     "codigo": "OFERTA",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do Mercado Livre 🏷 20% OFF limite R$60 OFF Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
+    "codigo": "PARTIDAMELI",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do Mercado Livre 🏷 20% de Desconto com Limite de R$60 🏷 18% de Desconto com Limite de R$60 🔗 Em todos os produtos Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
   }
 ];
 

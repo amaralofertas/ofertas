@@ -22,6 +22,12 @@ const cupons = [
     "codigo": "PARTIDAMELI",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do Mercado Livre 🏷 20% de Desconto com Limite de R$60 🏷 18% de Desconto com Limite de R$60 🔗 Em todos os produtos Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "Shopee Tecnologia",
+    "condicoes": "Novo Cupom Shopee ! Tecnologia R$ 100 OFF em R$ 899 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];
 

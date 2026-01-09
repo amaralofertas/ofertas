@@ -13,6 +13,12 @@ const cupons = [
   },
   {
     "tipo": "ml",
+    "codigo": "30MELIML",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do Mercado Livre 🏷 R$30 OFF em compras de R$79 🔗 Em todos produtos Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
     "codigo": "OFERTA",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do Mercado Livre 🏷 20% OFF limite R$60 OFF Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

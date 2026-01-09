@@ -36,6 +36,12 @@ const cupons = [
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
   },
   {
+    "tipo": "ml",
+    "codigo": "CLIENTETOP",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do Mercado Livre 🏷 R$250 OFF em compras acima de R$1699 🔗 Em qualquer produto Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
     "tipo": "shopee",
     "codigo": "Shopee Tecnologia",
     "condicoes": "Novo Cupom Shopee ! Tecnologia R$ 100 OFF em R$ 899 Resgate aqui👇",

@@ -52,6 +52,12 @@ const cupons = [
     "codigo": "Shopee Tecnologia",
     "condicoes": "Novo Cupom Shopee ! Tecnologia R$ 100 OFF em R$ 899 Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "ml",
+    "codigo": "VOLTEI",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do Mercado Livre 🏷 R$300 OFF em compras acima de R$1999 🏷 R$250 OFF em compras acima de R$1699 🏷 15% OFF com limite de R$200 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
   }
 ];
 

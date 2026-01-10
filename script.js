@@ -67,6 +67,12 @@ const cupons = [
   },
   {
     "tipo": "ml",
+    "codigo": "SAUDADES",
+    "condicoes": "Novo Cupom Mercado Livre 💛 R$200 OFF 🚨 Cupom do Mercado Livre 🏷 R$200 de desconto em compras de R$1399 🔗 Em todos produtos Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
     "codigo": "LEVAMELI",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Novo Cupom do Mercado Livre 🏷 15% OFF com limite de R$60 Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

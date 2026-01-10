@@ -55,6 +55,18 @@ const cupons = [
   },
   {
     "tipo": "ml",
+    "codigo": "LEVAMELI",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 🏷 15% OFF com limite de R$60 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
+    "codigo": "LEVAMELI",
+    "condicoes": "Novo Cupom Mercado Livre 🚨 Novo Cupom do Mercado Livre 🏷 15% OFF com limite de R$60 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "ml",
     "codigo": "VOLTEI",
     "condicoes": "Novo Cupom Mercado Livre 🚨 Cupom do Mercado Livre 🏷 R$300 OFF em compras acima de R$1999 🏷 R$250 OFF em compras acima de R$1699 🏷 15% OFF com limite de R$200 Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"

@@ -4,6 +4,12 @@ const cupons = [
     "codigo": "MIMOMELI",
     "condicoes": "Novo Cupom Mercado Livre 🚨 R$300 OFF em compras acima de R$1999 Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "D1R1J4206AF",
+    "condicoes": "Novo Cupom Shopee ! 💛 35% OFF 🏷 35% de Desconto com Limite de R$20 compra mínima de R$0 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];
 

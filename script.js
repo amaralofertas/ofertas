@@ -1,35 +1,4 @@
-const cupons = [
-  {
-    "tipo": "ml",
-    "codigo": "MIMOMELI",
-    "condicoes": "Novo Cupom Mercado Livre 🚨 R$300 OFF em compras acima de R$1999 Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "D1R1J4206AF",
-    "condicoes": "Novo Cupom Shopee ! 💛 35% OFF 🏷 35% de Desconto com Limite de R$20 compra mínima de R$0 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "AK10ACC",
-    "condicoes": "Novo Cupom Shopee ! R$ 10,00 OFF em R$ 50,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "3SQ22F3V",
-    "condicoes": "Novo Cupom Shopee ! 🏷 10% OFF com limite de até R$ 10,00 OFF em compras acima de R$ 99,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  },
-  {
-    "tipo": "shopee",
-    "codigo": "VC200ACC",
-    "condicoes": "Novo Cupom Shopee ! R$ 200,00 OFF em R$ 2.000,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

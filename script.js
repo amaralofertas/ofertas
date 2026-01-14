@@ -22,6 +22,12 @@ const cupons = [
     "codigo": "3SQ22F3V",
     "condicoes": "Novo Cupom Shopee ! 🏷 10% OFF com limite de até R$ 10,00 OFF em compras acima de R$ 99,00 Resgate aqui👇",
     "link": "https://s.shopee.com.br/1qQSP9GiRR"
+  },
+  {
+    "tipo": "shopee",
+    "codigo": "VC200ACC",
+    "condicoes": "Novo Cupom Shopee ! R$ 200,00 OFF em R$ 2.000,00 Resgate aqui👇",
+    "link": "https://s.shopee.com.br/1qQSP9GiRR"
   }
 ];
 

@@ -1,8 +1,8 @@
 const cupons = [
   {
     "tipo": "ml",
-    "codigo": "MELIMODA",
-    "condicoes": "Novo Cupom Mercado Livre 🏷 18% OFF acima de R$ 29, limite R$ 60 Resgate aqui👇",
+    "codigo": "RECEBIDOSPAGOS",
+    "condicoes": "Novo Cupom Mercado Livre 10% OFF em R$ 149, Limitado a R$ 60 OFF Resgate aqui👇",
     "link": "https://mercadolivre.com/sec/2Z9KCQk"
   }
 ];

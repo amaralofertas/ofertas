@@ -1,11 +1,4 @@
-const cupons = [
-  {
-    "tipo": "ml",
-    "codigo": "RECEBIDOSPAGOS",
-    "condicoes": "Novo Cupom Mercado Livre 10% OFF em R$ 149, Limitado a R$ 60 OFF Resgate aqui👇",
-    "link": "https://mercadolivre.com/sec/2Z9KCQk"
-  }
-];
+const cupons = [];
 
 window.mostrarCupons = function(tipo){
   const container = document.getElementById('container-cupom');

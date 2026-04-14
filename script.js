@@ -1,9 +1,9 @@
 const cupons = [
   {
-    "tipo": "shopee",
-    "codigo": "VC200ACC",
-    "condicoes": "Novo Cupom Shopee ! R$ 200,00 OFF em R$ 2.000,00 Resgate aqui👇",
-    "link": "https://s.shopee.com.br/1qQSP9GiRR"
+    "tipo": "ml",
+    "codigo": "MELIMODA",
+    "condicoes": "Novo Cupom Mercado Livre 🏷 18% OFF acima de R$ 29, limite R$ 60 Resgate aqui👇",
+    "link": "https://mercadolivre.com/sec/2Z9KCQk"
   }
 ];
 
